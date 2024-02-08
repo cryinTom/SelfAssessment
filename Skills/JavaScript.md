@@ -59,8 +59,8 @@
   - Private class fields
   - Private class methods
 - Statements
-  - `if` u
-  - `while` u
+  - `if`: 🖐️ used
+  - `while`: 🖐️ used
   - `do..while`
   - `for`
   - `for..in`
