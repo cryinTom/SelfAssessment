@@ -60,7 +60,7 @@
   - Private class methods
 - Statements
   - `if` u
-  - `while`
+  - `while` u
   - `do..while`
   - `for`
   - `for..in`
