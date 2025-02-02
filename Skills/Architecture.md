@@ -4,7 +4,7 @@
   - Separation of concerns
   - Inversion of Control
   - Dependency Injection
-  - GoF Creational
+  - GoF Creational h
   - GoF Structural
   - GoF Behavioral
   - GRASP
